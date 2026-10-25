@@ -8,7 +8,9 @@ This guide is best followed alongside this [LeetArxiv article](https://leetarxiv
 
 # Getting Started
 
+You can run the code on [Google Colab](https://colab.research.google.com/drive/1Uw7Th4JyQT75TA75ybXgfn6hZLO4PBPr#scrollTo=6x_eK3HHeJFv) or download the Jupyer Notebook
 
+The folder called C_code is a fork of [axcas.net](http://axcas.net/), a prod-ready F4 solver in C 
 
 
 
